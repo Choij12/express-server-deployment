@@ -1,0 +1,26 @@
+{
+  "name": "express-server-deployment",
+  "version": "1.0.0",
+  "description": "- HTTP Express Server on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choij12/express-server-deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Choij12/express-server-deployment/issues"
+  },
+  "homepage": "https://github.com/Choij12/express-server-deployment#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.7",
+    "supertest": "^6.2.0"
+  }
+}
