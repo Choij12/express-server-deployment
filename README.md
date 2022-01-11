@@ -22,6 +22,7 @@ To test server run: `npm test`
     - List of Messages can be read
 
 ## URL's
-- Pull Request: 
-- GitHub Main:
-- GitHub Dev: 
+- GitHub Main: https://github.com/Choij12/express-server-deployment
+- GitHub Dev: https://github.com/Choij12/express-server-deployment/tree/dev
+- Pull Request: https://github.com/Choij12/express-server-deployment/pulls
+- Deployed URL: https://choij12-server-deployment.herokuapp.com/
